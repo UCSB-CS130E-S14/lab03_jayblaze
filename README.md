@@ -1,4 +1,4 @@
-lab03_jayblaze
-==============
+CS130E-S14-Labs
+===============
 
-lab03 for Jackson Blazensky
+labs for CS130E-S14
